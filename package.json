@@ -46,6 +46,7 @@
     }
   },
   "dependencies": {
+    "@sentry/browser": "^5.15.5",
     "almond": "^0.3.3",
     "d3-drag": "^1.2.4",
     "d3-force": "^1.2.1",
